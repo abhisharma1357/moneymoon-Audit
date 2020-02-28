@@ -1,0 +1,2 @@
+cli:
+  argv: [Migrations.sol]
